@@ -1,0 +1,44 @@
+Programming Language:
+- Python
+
+Libraries & Frameworks:
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Sentence Transformers
+- FAISS
+- Transformers
+- Hugging Face Hub
+
+Machine Learning Techniques:
+- Random Forest Regression
+- Random Forest Classification
+- Predictive Analytics
+- Feature Engineering
+
+Data Analysis Techniques:
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+
+Visualization & Dashboard Tools:
+- Power BI
+
+AI & RAG Technologies:
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face Open LLMs
+- NLP-based Query Handling
+- AI-powered Analytics Assistant
+
+Development Environment:
+- Google Colab
+- Jupyter Notebook
+- VS Code
+
+Version Control:
+- Git
+- GitHub
